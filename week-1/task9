@@ -1,0 +1,14 @@
+# Task 9 - Lucky Ticket
+
+t = input("Enter a 6-digit ticket number: ")
+
+a = t[0:3]
+b = t[3:6]
+
+s1 = int(a[0]) + int(a[1]) + int(a[2])
+s2 = int(b[0]) + int(b[1]) + int(b[2])
+
+if s1 == s2:
+    print("YES")
+else:
+    print("NO")
