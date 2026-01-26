@@ -1,0 +1,6 @@
+a = float(input("Enter a number with decimal places: "))
+x = int(a)
+y = a - x
+new = y*100 + x/100
+
+print(new)

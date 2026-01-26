@@ -1,0 +1,23 @@
+Total lines: 1
+Total words: 20
+Word frequency:
+python: 1
+is: 1
+a: 1
+highlevel: 1
+generalpurpose: 1
+programming: 1
+language: 1
+known: 1
+for: 1
+its: 1
+easytoread: 1
+syntax: 1
+and: 1
+versatility: 1
+supporting: 1
+web: 1
+development: 1
+data: 1
+science: 1
+ai: 1

@@ -1,0 +1,10 @@
+print("Think of a number")
+print("Multiply it by 5")
+print("Add 8 to the result")
+print("Multiply the sum by 2")
+
+res = int(input("Enter the final result: "))
+
+num = (res-16) / 10
+
+print("Your original number was:", int(num))
