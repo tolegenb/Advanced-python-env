@@ -1,9 +1,0 @@
-w = input()
-num = int(input())
-
-for letter in w:
-    i = 0
-    while i < num:
-        print(letter, end="")
-        i = i + 1
-    print()
